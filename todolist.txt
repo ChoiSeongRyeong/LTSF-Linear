@@ -1,0 +1,6 @@
+Customizing LTSF(Long-Term Timeseries Forecasting) data and model class.
+
+1. Dataset: Read csv file and preprocess for timeseries data.
+2. Dataloader: From dataset, yeild batch data for model.
+3. Model: if needed.
+4. Experiment: Train, validate, test, predict with mlflow.
